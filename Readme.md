@@ -1,4 +1,4 @@
-# Smartwyre Developer Test Instructions
+# Developer Test Instructions
 
 In the 'RebateService.cs' file you will find a method for calculating a rebate. At a high level the steps for calculating a rebate are:
 
